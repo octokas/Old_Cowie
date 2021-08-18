@@ -1,0 +1,33 @@
+{
+  "name": "bigorange",
+  "version": "1.0.0",
+  "description": "case study for major retailer legacy migration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyulacska/BigOrange.git"
+  },
+  "keywords": [
+    "retail",
+    "retailer",
+    "legacy",
+    "migration",
+    "legacy",
+    "modernization",
+    "case",
+    "study",
+    "cloud",
+    "hpe",
+    "nonstop",
+    "api"
+  ],
+  "author": "Kaska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyulacska/BigOrange/issues"
+  },
+  "homepage": "https://github.com/nyulacska/BigOrange#readme"
+}
